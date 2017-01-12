@@ -1,0 +1,7 @@
+1). Open image->1944.jpg. Save R,G,B plane as well as convert into greyscale and save it.
+
+2). Open redball.jpg and remove the background of the red black (make background black).
+
+3). Open 1944.jpg convert to grey scale and check bit-plane.
+
+4). Write two functions, encode and decode where encode take one image and hides in other image. Decode decodes the encoded image and giveout two original images.
