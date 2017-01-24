@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 from matplotlib import pyplot as plt
 
-img = cv2.imread("/home/aditya/DIP/PRACTICE/DIP17_1_Images/redball.jpg")
+img = cv2.imread("/home/aditya/DIP/DIP17_1_Images/redball.jpg")
 (height,width,column) = img.shape
 color = ('b','g','r')
 for i,col in enumerate(color):
@@ -17,5 +17,5 @@ for h in range(height):
             img[h][w][1] = 0
             img[h][w][2] = 0
 
-cv2.imwrite("/home/aditya/DIP/PRACTICE/DIP17_1_Images/redball_background_removed.jpg",img)
+cv2.imwrite("/home/aditya/DIP/DIP17_1_Images/redball_background_removed.jpg",img)
 
