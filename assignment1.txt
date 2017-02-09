@@ -1,0 +1,19 @@
+1. Implement different smoothening techniques on different natural images (6 techniques min.) (Write code and observation and one line).        
+
+2. Name different point transformations (6 techniques) and neighbourhood transformations(6 techniques min.) (logic and give one applications of each).
+
+3. Interpolate using :- 1) nearest neighbour 2)bilinear 3)bicubic 4)linear spline 5)bicubic spline (2 images and then make the image of size half and then again zoom it to 2x and fill empty slots using interpolation and compare the energy difference as well as MSE(mean square error))
+
+4. Write a short note on Histogram Equalization (motivation & logic behind it) and different variants of it.
+
+5. Write a short note of different noise models and methods to counteract or nullify it (6 noise models min.).
+
+
+Please attach image and code(matlab or python).
+
+
+DEADLINE: 1st FEB
+
+NOTE: Any kind of plagiarism will not be tolerated and punished.
+
+GOOD LUCK
