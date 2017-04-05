@@ -14,6 +14,8 @@ w, v = LA.eig(cov)
 
 temp = np.copy(v)
 
+print v [:,0]
+
 '''
 
 For the given example lamda3 > lambda2 > lambda1
@@ -33,6 +35,13 @@ result = np.dot(v.transpose(), result)
 
 print "Eigen Values:"
 print w
+
+print "------------------------------------------------------------------------"
+
+print "Eigen Vector having Large Eigen Value"
+print v[:,0]
+
+print "------------------------------------------------------------------------"
 
 # PCA Transform
 
