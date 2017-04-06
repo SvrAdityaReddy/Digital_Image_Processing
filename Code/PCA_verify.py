@@ -14,11 +14,11 @@ w, v = LA.eig(cov)
 
 temp = np.copy(v)
 
-print v [:,0]
+# print v [:,0]
 
 '''
 
-For the given example lamda3 > lambda2 > lambda1
+For the given example lamda1 > lambda3 > lambda2
 
 '''
 
