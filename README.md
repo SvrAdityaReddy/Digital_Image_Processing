@@ -6,4 +6,5 @@
   * scipy ([Installation for Ubuntu 16.04](https://www.scipy.org/install.html#install-systemwide-via-a-linux-package-manager))
 
 * **References for Study**
-  * Image Restoration
+  * Image Restoration <br/>
+  [Image Restoration Video series by NPTEL] (https://www.youtube.com/watch?v=5qxrzD6ODHc)
