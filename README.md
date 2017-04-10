@@ -12,3 +12,5 @@
   [Frequency Domain Processing by Prof. R.
 Venkatesh
 Babu](http://www.serc.iisc.ernet.in/~venky/SE263/slides/FreqDomain.pdf)
+  * Hough Transform <br/>
+  [The Hough Transform by Utkarsh Sinha](http://aishack.in/tutorials/hough-transform-basics/)
