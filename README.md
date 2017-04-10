@@ -14,3 +14,6 @@ Venkatesh
 Babu](http://www.serc.iisc.ernet.in/~venky/SE263/slides/FreqDomain.pdf)
   * Hough Transform <br/>
   [The Hough Transform by Utkarsh Sinha](http://aishack.in/tutorials/hough-transform-basics/)
+  * Bilatering Filtering and it's drawback <br/>
+  [Bilateral Filtering: Theory and Applications by Sylvain Paris, Pierre Kornprobst, Jack Tumblin and Frédo Durand](https://people.csail.mit.edu/sparis/publi/2009/fntcgv/Paris_09_Bilateral_filtering.pdf)<br/>
+  [A Gentle Introduction to Bilateral Filtering and its Applications by Pierre Kornprobs](https://people.csail.mit.edu/sparis/bf_course/slides08/09_limitations.pdf)<br/>
