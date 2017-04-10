@@ -8,3 +8,7 @@
 * **References for Study**
   * Image Restoration <br/>
   [Image Restoration Video series by NPTEL](https://www.youtube.com/watch?v=5qxrzD6ODHc)
+  * Construction of Fourier Basis and Other related topics <br/>
+  [Frequency Domain Processing by R.
+Venkatesh
+Babu](http://www.serc.iisc.ernet.in/~venky/SE263/slides/FreqDomain.pdf)
