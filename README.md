@@ -7,4 +7,4 @@
 
 * **References for Study**
   * Image Restoration <br/>
-  [Image Restoration Video series by NPTEL] (https://www.youtube.com/watch?v=5qxrzD6ODHc)
+  [Image Restoration Video series by NPTEL](https://www.youtube.com/watch?v=5qxrzD6ODHc)
